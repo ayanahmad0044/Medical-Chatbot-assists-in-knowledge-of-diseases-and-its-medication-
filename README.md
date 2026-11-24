@@ -134,14 +134,3 @@ The LLM uses the retrieved context to generate a natural-language response.
                 v
               USER
 ```
-
-### RAG Knowledge Ingestion Pipeline
-
-```text
-     MEDICAL DOCUMENTS
-              |
-              v
-        DOCUMENT LOADER
-              |
-              v
-         TEXT
